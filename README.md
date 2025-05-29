@@ -3,8 +3,8 @@ This repository contains the best work of semester one in AP Computer Science
 Project 1: Final Project (Create Task)
 This program served as a movie chooser. The player was asked to input what genre they would like to watche (Comedy, drama, romance, animated, or horror). A filtered list was generated based on the genre of the movies in my movieList, and a random movie was selected from the filtered list. The final result is the movie poster and information about the movie that was selected being displayed for the user. 
 
-Project 2: Tetris
-This program 
+Project 2: 56 Dog Breedsd
+This program gives the user an image and description of a dog to reccomend for them! The user is required to input what size, breed, and purpose they would like to see in a dog and finds them a dog that fits those requirements.  
 
 Project 3: Guessing Game
 This program allows for a player to guess a randomly generated number from 0 through 10. The program tells the player when they are greater than or less than the correct number and gives them three tries. 
